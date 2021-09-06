@@ -12,7 +12,7 @@ Here are some options of the script.
 - momentum: Momentum hyperparameter for updating the mask image.
 - max_step: Max iteration number.
 
-```
+```bash
 python fuzzy.py \
         --input_file /path/to/your/inputfile \
         --opc 1 \

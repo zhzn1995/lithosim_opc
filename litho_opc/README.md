@@ -13,7 +13,7 @@ Here are some options of the script.
 
 
 For lithography simulation
-```
+```bash
 python lithosim_opc_one.py \
         --input_file /path/to/your/inputfile \
         --opc 0 \
@@ -28,7 +28,7 @@ python lithosim_opc_one.py \
 ```
 
 For optical proximity correction
-```
+```bash
 python lithosim_opc_one.py \
         --input_file /path/to/your/inputfile \
         --opc 1 \

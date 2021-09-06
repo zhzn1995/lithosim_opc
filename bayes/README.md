@@ -4,9 +4,9 @@ First prepare your DCT-based ICCAD benchmark with [this code](https://github.com
 
 Next run the script to search with BO:
 
-```python
+```bash
 python bayes_search.py \
-		--name hsd-mg \
+    --name hsd-mg \
     --val_set 0 \
     --layers 8 \
     --dataset iccad19 \
