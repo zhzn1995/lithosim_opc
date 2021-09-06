@@ -2,11 +2,11 @@
 
 - For lithography simulation and optical proximity correction, please see [litho_opc](https://github.com/Ramodis/lithosim_opc/tree/main/litho_opc).
 
-- For quadratic convolution, please see [lquadratic_conv](https://github.com/Ramodis/lithosim_opc/tree/main/quadratic_conv).
+- For quadratic convolution, please see [quadratic_conv](https://github.com/Ramodis/lithosim_opc/tree/main/quadratic_conv).
 
-- For binarized neural network-based hotspot detection, please see [bnn]([lithosim_opc/bnn at main · Ramodis/lithosim_opc (github.com)](https://github.com/Ramodis/lithosim_opc/tree/main/bnn)).
+- For binarized neural network-based hotspot detection, please see [bnn](https://github.com/Ramodis/lithosim_opc/tree/main/bnn).
 
-- For NAS-based hotspot detection, please see [bayes]([lithosim_opc/bayes at main · Ramodis/lithosim_opc (github.com)](https://github.com/Ramodis/lithosim_opc/tree/main/bayes)).
+- For NAS-based hotspot detection, please see [bayes](https://github.com/Ramodis/lithosim_opc/tree/main/bayes).
 
-- For fuzzy pattern, please see [fuzzy]([lithosim_opc/fuzzy at main · Ramodis/lithosim_opc (github.com)](https://github.com/Ramodis/lithosim_opc/tree/main/fuzzy)).
+- For fuzzy pattern, please see [fuzzy](https://github.com/Ramodis/lithosim_opc/tree/main/fuzzy).
 
